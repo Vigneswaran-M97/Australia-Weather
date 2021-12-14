@@ -25,3 +25,15 @@ Data set is taken in kaggle
 
     Copyright Commonwealth of Australia 2010, Bureau of Meteorology.
 
+# XG-Boost
+    
+    XGBClassifier perform very well compare to RandomForestClassifier
+ 
+ ![image](https://user-images.githubusercontent.com/75010821/145956883-f43e9291-bda7-4377-9695-ac9944398ad2.png)
+
+# Random Forest 
+    
+    RandomForestClassifier perform very well compare to KNeighborsClassifier and LogisticRegression
+  
+![image](https://user-images.githubusercontent.com/75010821/145957406-a6164e0c-4f2a-441e-8f27-820da1f72b75.png)
+
